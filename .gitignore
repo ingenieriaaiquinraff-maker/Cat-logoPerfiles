@@ -219,11 +219,11 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Ignore Excel workbook files
-*.xlsx
-*.xlsm
-*.xls
-*.xlsb
+# # Ignore Excel workbook files
+# *.xlsx
+# *.xlsm
+# *.xls
+# *.xlsb
 
-# Ignore temporary Excel lock files (created when a file is open)
+# # Ignore temporary Excel lock files (created when a file is open)
 ~$*

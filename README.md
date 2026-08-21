@@ -55,6 +55,7 @@ Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 
 El archivo de entrada debe contener una hoja llamada `Hoja1` y las columnas geométricas utilizadas por el notebook, como `Familia`, `h (mm)`, `b (mm)`, `tw (mm)`, `tf (mm)` y `W (kg/m)`.
 
-## Nota
+## Pendientes
 
-En el mapa de funciones del notebook, la familia `I` apunta actualmente a `calcular_W`, pero la función definida se llama `calcular_I`. Para procesar perfiles `I`, cambia esa referencia a `calcular_I`.
+- Separar perfiles por proveedor o país/norma de origen.
+- Perfiles angulares pequeños (1 ; 1 1/2)
