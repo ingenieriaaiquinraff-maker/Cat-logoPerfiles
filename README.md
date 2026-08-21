@@ -16,8 +16,16 @@ El resultado se guarda en un nuevo archivo Excel.
 
 - Python 3.
 - Jupyter Notebook o JupyterLab.
+- Git (necesario para clonar el repositorio).
 
 ## Instalación
+
+Clona el repositorio y entra en la carpeta del proyecto:
+
+```powershell
+git clone https://github.com/ingenieriaaiquinraff-maker/Cat-logoPerfiles
+cd Cat-logoPerfiles
+```
 
 Desde la carpeta del proyecto, crea y activa un entorno virtual:
 
